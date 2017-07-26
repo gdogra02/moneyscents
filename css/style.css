@@ -1775,6 +1775,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .call-out .thm-btn {
   margin-bottom: 10px;
+  background: #F06EAA
 }
 
 .call-out .thm-btn:hover {
