@@ -522,8 +522,24 @@
         </div>
     </div>
 </section>
-
-
+<!--Mailchimp sign up section-->
+<section class="mailer-signup">
+    <div class="container" style="padding-bottom:6vh;">
+        <!-- Newsletter title -->
+        <div class="section-title center">
+            <h1>Newsletter</h1> <span class="decor"></span>
+            <p>Subscribe to our monthy mailing list.</p>
+        </div>
+        <!-- Email Form -->
+        <form id="mailchimp-signup" action="https://moneyscents.us16.list-manage.com/subscribe/post" method="POST">
+            <!-- MailChimp ID / Post input -->
+            <input type="hidden" name="u" value="b5a26f0e858a8a75fd9dad211">
+            <input type="hidden" name="id" value="b065d1a06b">
+            <input id="mailchimp-email" type="email" placeholder="Email" name="MERGE0">
+            <button type="submit" class="thm-btn" id="mailchimp-submit">Subscribe</button>
+        </form>
+    </div>
+</section>
 <section class="our-address bg-style1 sec-padd2" style="background-image: url(images/tdot.jpg);">
     <div class="container">
         <div class="row">
@@ -633,8 +649,12 @@
                             <div class="footer-title">
                                 <h4>Newsletter</h4>
                             </div>
-                            <form action="#">
-                                <input type="email" placeholder="email address..">
+                            <!-- MailChimp Post Form -->
+                            <form id="mailchimp-signup" action="https://moneyscents.us16.list-manage.com/subscribe/post" method="POST">
+                                <!-- MailChimp ID / Post input -->
+                                <input type="hidden" name="u" value="b5a26f0e858a8a75fd9dad211">
+                                <input type="hidden" name="id" value="b065d1a06b">
+                                <input type="email" placeholder="Email Address" name="MERGE0">
                                 <button type="submit" class="thm-btn">Subscribe</button>
                             </form>
                             <h5>Get Updates and Latest News from us.</h5>
