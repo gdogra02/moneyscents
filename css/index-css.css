@@ -1,0 +1,57 @@
+/* 
+index.html Custom Styling.
+*/
+
+
+/*
+Style for Mailchimp signup section
+*/
+
+#mailchimp-signup {
+    text-align: center;
+}
+
+
+/* Email field */
+
+#mailchimp-email {
+    display: inline-block;
+    width: 40%;
+    margin: auto;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #e2e2e2;
+    padding: 9px;
+}
+
+
+/* When email field is selected */
+
+#mailchimp-email:focus {
+    border-color: #00B7F1;
+}
+
+
+/* Submit button */
+
+#mailchimp-submit {
+    margin: auto;
+    display: inline-block;
+    margin-left: 1vw;
+}
+
+
+/* Responsive design */
+
+@media only screen and (max-device-width: 770px) {
+    /* Email field */
+    #mailchimp-email {
+        display: block;
+        width: 80%;
+    }
+    /* Submit button */
+    #mailchimp-submit {
+        margin-top: 4vh;
+    }
+}
