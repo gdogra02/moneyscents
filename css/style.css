@@ -7,6 +7,7 @@
 
 
 
+
 01. Imported styles
 02. Global styles
 03. Header styles
@@ -25,10 +26,6 @@
 16. news-event style
 17. location style
 18. job style
-
-
-
-
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||            End TABLE OF CONTENT                ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************/
@@ -1237,11 +1234,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   Main Footer
 ====================================================================
-
 ***/
 
 .main-footer {
@@ -1587,11 +1582,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   why-chooseus
 ====================================================================
-
 ***/
 
 .why-chooseus{
@@ -1755,11 +1748,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   call-out
 ====================================================================
-
 ***/
 
 
@@ -1783,11 +1774,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 /*** 
-
 ====================================================================
   fact-counter
 ====================================================================
-
 ***/
 
 
@@ -1851,11 +1840,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   testimonial section
 ====================================================================
-
 ***/
 
 .testimonial .testimonial-item {
@@ -1915,11 +1902,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   brand-logo section
 ====================================================================
-
 ***/
 
 .brand-logo {
@@ -1955,11 +1940,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   our address section
 ====================================================================
-
 ***/
 .our-address {
   position: relative;
@@ -2055,11 +2038,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   default-blog section
 ====================================================================
-
 ***/
 
 
@@ -2121,11 +2102,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   company history section
 ====================================================================
-
 ***/
 
 .company-history {
@@ -2331,11 +2310,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   all cause
 ====================================================================
-
 ***/
 
 .all-cause{
@@ -2471,11 +2448,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   audit and assurance
 ====================================================================
-
 ***/
 
 /*========== market plan ===========*/
@@ -2526,11 +2501,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   contact_area
 ====================================================================
-
 ***/
 
 .contact_area {
@@ -2600,11 +2573,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   google map Section
 ====================================================================
-
 ***/
 .home-google-map #contact-google-map {
   width: 100%;
@@ -2618,11 +2589,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   our leader Section
 ====================================================================
-
 ***/
 
 .our-leader {
@@ -2696,11 +2665,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 /*** 
-
 ====================================================================
   News and Events
 ====================================================================
-
 ***/
 .news-event .inner-box {
   border-bottom: 1px solid #e0e0e0;
@@ -3006,11 +2973,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   our location
 ====================================================================
-
 ***/
 
 
@@ -3085,11 +3050,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   job-list
 ====================================================================
-
 ***/
 
 
@@ -3249,11 +3212,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 /*** 
-
 ====================================================================
   job-details
 ====================================================================
-
 ***/
 
 .job-details .post-meta {
@@ -3317,5 +3278,3 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   display: inline-block;
   margin-right: 10px;
 }
-
-
