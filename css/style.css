@@ -1,5 +1,5 @@
 /***************************************************************************************************************
-||||||||||||||||||||||||||||       MASTER STYLESHEET FOR RICh      ||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||             MASTER STYLESHEET                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
@@ -91,7 +91,7 @@ body {
 h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
 h1,h2,h3,h4,h5 {
   font-family: 'Montserrat', sans-serif;
-} 
+}
 
 ul {list-style-type: none;}
 
@@ -422,7 +422,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     height: 100%;
     color: #9c9c9c;
     font-size: 20px;
-    text-align: center; 
+    text-align: center;
 }
 .accordion .acc-btn.active .left-icon {
     color: #fff;
@@ -430,7 +430,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .accordion .left-icon span {
     position: relative;
-    top: 18px;  
+    top: 18px;
 }
 
 .accordion .acc-btn {
@@ -552,7 +552,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .comment-form .form-box{
-  padding:25px 25px 0px 25px; 
+  padding:25px 25px 0px 25px;
 }
 
 .default-form .form-group{
@@ -566,11 +566,11 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .default-form.form-box .row{
   margin-left:-10px;
-  margin-right:-10px; 
+  margin-right:-10px;
 }
 
 .default-form.form-box .row .form-group{
-  padding:0px 0px;  
+  padding:0px 0px;
 }
 
 .default-form .form-group .field-label{
@@ -658,7 +658,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-top: -11px;
 }
 
- 
+
 
 .default-form .bootstrap-select {
   background: none;
@@ -1134,7 +1134,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
   border-top: 1px solid rgba(255, 255, 255, 0.39);
-} 
+}
 
 /*============ social icon ============*/
 
@@ -1156,7 +1156,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 =============================================
     Rev Slider Wrapper style
 =============================================
@@ -1194,10 +1194,10 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .rev_slider_wrapper .slide-content-box.last-slide p{
-  margin: 0;    
+  margin: 0;
 }
 .rev_slider_wrapper .slide-content-box.last-slide a{
-  margin: 0 8px;    
+  margin: 0 8px;
 }
 
 .rev_slider_wrapper .slotholder {
@@ -1218,7 +1218,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .tp-bannertimer {
   display: none;
-  
+
 }
 
 .rev_slider_wrapper .tparrows {
@@ -1233,7 +1233,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   Main Footer
 ====================================================================
@@ -1269,8 +1269,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .main-footer .footer-title li {
     color: #fff;
     font-size: 16px;
-    
-    
+
+
 }
 
 .main-footer .footer-title li i{
@@ -1437,8 +1437,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/************************** 
-* Inner Banner styles 
+/**************************
+* Inner Banner styles
 ***************************/
 .inner-banner {
   position: relative;
@@ -1503,8 +1503,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/************************** 
-* service styles 
+/**************************
+* service styles
 ***************************/
 
 
@@ -1592,7 +1592,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 ====================================================================
   why-chooseus
 ====================================================================
@@ -1758,7 +1758,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   call-out
 ====================================================================
@@ -1788,7 +1788,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   background: #fff;
 }
 
-/*** 
+/***
 ====================================================================
   fact-counter
 ====================================================================
@@ -1829,11 +1829,11 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 30px;
   font-weight: 700;
   top: -40px;
-  font-family: 'Montserrat', sans-serif;  
+  font-family: 'Montserrat', sans-serif;
   color: #fff;
 }
 
-.fact-counter .hexagon:before, 
+.fact-counter .hexagon:before,
 .fact-counter .hexagon:after {
   background: transparent;
   border-color: #fff;
@@ -1854,7 +1854,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   testimonial section
 ====================================================================
@@ -1916,7 +1916,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 ====================================================================
   brand-logo section
 ====================================================================
@@ -1954,7 +1954,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 ====================================================================
   our address section
 ====================================================================
@@ -2052,7 +2052,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   default-blog section
 ====================================================================
@@ -2116,7 +2116,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 ====================================================================
   company history section
 ====================================================================
@@ -2324,7 +2324,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 ====================================================================
   all cause
 ====================================================================
@@ -2462,7 +2462,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   audit and assurance
 ====================================================================
@@ -2515,7 +2515,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   contact_area
 ====================================================================
@@ -2587,7 +2587,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 
-/*** 
+/***
 ====================================================================
   google map Section
 ====================================================================
@@ -2603,7 +2603,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   our leader Section
 ====================================================================
@@ -2679,7 +2679,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transform: rotate(-90deg);
 }
 
-/*** 
+/***
 ====================================================================
   News and Events
 ====================================================================
@@ -2987,7 +2987,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   our location
 ====================================================================
@@ -3064,7 +3064,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   job-list
 ====================================================================
@@ -3117,7 +3117,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .job-list .inner-box .icon-box {
   position: relative;
-  height: 40px; 
+  height: 40px;
   width: 40px;
   line-height: 40px;
   color: #fff;
@@ -3130,7 +3130,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .job-list .inner-box .meta-info {
-  
+
 }
 
 .job-list .inner-box .meta-info p {
@@ -3184,19 +3184,19 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   text-align: left;
 }
 
-.job-list .inner-box .table-hover>tbody>tr:hover>td, 
+.job-list .inner-box .table-hover>tbody>tr:hover>td,
 .job-list .inner-box .table-hover>tbody>tr.active td {
   background: #203364;
   transition: .7s ease;
 }
 
-.job-list .inner-box .table-hover>tbody>tr:hover>td .meta-info p, 
+.job-list .inner-box .table-hover>tbody>tr:hover>td .meta-info p,
 .job-list .inner-box .table-hover>tbody>tr.active td .meta-info p {
    color: #fff;
    transition: .7s ease;
 }
 
-.job-list .inner-box .table-hover>tbody>tr:hover>td .meta-info ul li a, 
+.job-list .inner-box .table-hover>tbody>tr:hover>td .meta-info ul li a,
 .job-list .inner-box .table-hover>tbody>tr.active td .meta-info ul li a {
    color: #fff;
    transition: .7s ease;
@@ -3226,7 +3226,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 
-/*** 
+/***
 ====================================================================
   job-details
 ====================================================================
