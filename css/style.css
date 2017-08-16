@@ -1242,14 +1242,14 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .main-footer {
   position:relative;
   background:#203364;
-  padding: 40px 0 90px;
+  padding: 20px 0 20px;
 }
 .main-footer.shadow {
   box-shadow: inset 1px 4px 14px 7px rgba(0, 0, 0, 0.2);
 }
 
 .main-footer .footer-widget {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .main-footer .section-title {
@@ -1263,9 +1263,20 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 22px;
   text-transform: uppercase;
   font-weight: 300;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 
+.main-footer .footer-title li {
+    color: #fff;
+    font-size: 16px;
+    
+    
+}
+
+.main-footer .footer-title li i{
+    padding-right: 10px;
+    font-size: 14px;
+}
 .main-footer .footer-logo {
   margin-bottom: 14px;
   padding-top: 5px;
@@ -1755,18 +1766,22 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .call-out {
-  padding-top: 15px;
+  padding-top: 50px;
   background: #203364;
+  padding-bottom: 50px;
 }
 .call-out h2 {
   color: #fff;
-  margin-top: 7px;
+  margin-top: 25px;
   margin-bottom: 25px;
 }
 
 .call-out .thm-btn {
+  margin-top: 10px;
   margin-bottom: 10px;
-  background: #FF1493
+  background: #FF1493;
+
+
 }
 
 .call-out .thm-btn:hover {
