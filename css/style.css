@@ -145,8 +145,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   padding-bottom: 100px;
 }
 .sec-padd6 {
-  padding: 5% 30% 0% 23%;
+  padding: 5% 0% 0% 0%;
   box-sizing: inherit;
+  margin:auto
 }
 
 .no-padd {
