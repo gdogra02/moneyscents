@@ -95,7 +95,7 @@ h1,h2,h3,h4,h5,h6,p,ul { margin:0;padding: 0;}
 h1,h2,h3,h4,h5 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 20px;
 
 }
 
@@ -103,8 +103,8 @@ h1,h2,h3,h4,h5 {
 
 ul {list-style-type: none;}
 
-p {font-family: "Wizards";
-  font-size: 24px;
+p {font-family: 'Open Sans';
+  font-size: 20px;
   line-height: 1.58;
   font-weight: 400;
   font-style: normal;
