@@ -132,15 +132,18 @@
         <div class="row">
 
 					<div class="col-md-2 col-sm-12">
-						<script id="mNCC" language="javascript">
-					    medianet_width = "160";
-					    medianet_height = "600";
-					    medianet_crid = "998172289";
-					    medianet_versionId = "3111299";
-				  	</script>
-						<script src="//contextual.media.net/nmedianet.js?cid=8CUR4534R"></script>
-
+						<script type="text/javascript">
+						  ( function() {
+						    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+						    var unit = {"calltype":"async[2]","publisher":"zhast","width":160,"height":600,"sid":"Chitika Default"};
+						    var placement_id = window.CHITIKA.units.length;
+						    window.CHITIKA.units.push(unit);
+						    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+							}());
+						</script>
+						<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
 					</div>
+					
                 <div class="col-sm-7">
                 <div class="section-title">
                     <h1>Introduction to Currency Trading</h1><br>
